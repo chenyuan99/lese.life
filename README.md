@@ -1,2 +1,0 @@
-# lese.life
-Garbage Classification
